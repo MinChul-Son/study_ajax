@@ -1,0 +1,31 @@
+21/1/6 시작
+우리가 검색어입력창에 한단어씩 입력할때마다 통신이 이루어짐.
+==>즉, 리로드없이 정보를 가져옴
+
+21/1/9
+Single Page Web Application
+Fetch API
+fetch('javascript')==>웹브라우저에게 javascript라는 이름의 파일을
+서버로 응답하도록 명령
+.then() ==> 응답 후 실행시켜줌
+==> 즉, 비동기적
+
+웹서버가 응답을 하면서 파일을 정상적으로 찾으면 200이라고 return해준다.
+Status = 200
+Status = 404 ==> Not Found
+response객체는 웹서버의 응답에 대한 결과를 담고 있는 객체
+
+
+hash
+
+
+
+
+
+
+
+
+
+
+
+
